@@ -130,8 +130,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 512152724}
     m_Modifications:
-<<<<<<< HEAD
-=======
     - target: {fileID: -8946073085612919957, guid: 41a656146f36f7a4287ca6e8bf87248d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.838
@@ -160,7 +158,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -221.277
       objectReference: {fileID: 0}
->>>>>>> New-Update/main
     - target: {fileID: -8679921383154817045, guid: 41a656146f36f7a4287ca6e8bf87248d, type: 3}
       propertyPath: m_RootOrder
       value: 2

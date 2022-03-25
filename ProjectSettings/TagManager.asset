@@ -3,8 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - enemy
+=======
+  tags: []
+>>>>>>> New-Update/main
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,11 @@ TagManager:
   - Water
   - UI
   - Ground
+<<<<<<< HEAD
   - enemy
+=======
+  - 
+>>>>>>> New-Update/main
   - 
   - 
   - 

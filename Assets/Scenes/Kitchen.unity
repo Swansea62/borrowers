@@ -873,9 +873,9 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
-  m_Mesh: {fileID: -4135421178465731227, guid: f73c4d92ecffb1742a089d669e5fe798, type: 3}
+  m_Mesh: {fileID: -4135421178465731227, guid: da24921f51e46824e85d6e4b25565ef8, type: 3}
 --- !u!1001 &494593823
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1840,7 +1840,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5c21f602d4eefcc4dbcdd55321142ed8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 236.6
+      value: 255
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5c21f602d4eefcc4dbcdd55321142ed8, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1848,7 +1848,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5c21f602d4eefcc4dbcdd55321142ed8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -197
+      value: 145
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5c21f602d4eefcc4dbcdd55321142ed8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3395,9 +3395,9 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
-  m_Mesh: {fileID: -4135421178465731227, guid: f73c4d92ecffb1742a089d669e5fe798, type: 3}
+  m_Mesh: {fileID: -4135421178465731227, guid: da24921f51e46824e85d6e4b25565ef8, type: 3}
 --- !u!1 &1507662587
 GameObject:
   m_ObjectHideFlags: 0
@@ -3522,7 +3522,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0ac85a8a32feb7f43b8246c295d7a2f9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -155.2841
+      value: -157.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0ac85a8a32feb7f43b8246c295d7a2f9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3558,15 +3558,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8514866246777211452, guid: 0ac85a8a32feb7f43b8246c295d7a2f9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.22412
+      value: -2.218
       objectReference: {fileID: 0}
     - target: {fileID: -8514866246777211452, guid: 0ac85a8a32feb7f43b8246c295d7a2f9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.2333313
+      value: -0.142
       objectReference: {fileID: 0}
     - target: {fileID: -8514866246777211452, guid: 0ac85a8a32feb7f43b8246c295d7a2f9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.35283825
+      value: -0.355
       objectReference: {fileID: 0}
     - target: {fileID: -8514866246777211452, guid: 0ac85a8a32feb7f43b8246c295d7a2f9, type: 3}
       propertyPath: m_LocalRotation.w
